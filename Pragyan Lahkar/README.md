@@ -28,7 +28,7 @@ A basic calculator web application that performs arithmetic operations like addi
 ```
 
 ## 📷 Screenshot
-!(Simplecalculator.png) 
+![Calculator Screenshot](Simplecalculator.png) 
 
 ## 🏃‍♂️ Run Locally
 1. Clone the repository:
@@ -41,5 +41,5 @@ A basic calculator web application that performs arithmetic operations like addi
 This project is open-source and free to use.
 
 ---
-🔗 **GitHub Repository:** (https://github.com/Code-master-pragyan/Delta-Projects) 
+🔗 **GitHub Repository:** [https://github.com/Code-master-pragyan/Delta-Projects](https://github.com/your-username/calculator-project)
 
